@@ -1,3 +1,3 @@
 # raspberrypialarm
-#is not complete
-#please don't use atm
+is not complete
+please don't use atm
